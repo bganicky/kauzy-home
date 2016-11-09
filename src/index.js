@@ -92,6 +92,12 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/bytovy-dum-konevova-rohacova-budovcova-kaplirova/`,
     latDms: `50°05'16.5"N`,
     lngDms: `14°27'29.7"E`
+  }, {
+    name: `Dům sociálních služeb Praha 3`,
+    description: `Podoba domu zatím není známá. MČ Praha 3 oslovila v říjnu 2010 tři architektonické ateliéry, aby zpracovaly návrh řešení. Možným podobám objektu se věnovali v rámci semestrálních prací v roce 2016 studenti Fakulty architektury ČVUT.`,
+    url: `http://zizkovnezastavis.cz/kauzy/dum-socialnich-sluzeb-praha-3/`,
+    latDms: `50°05'40.8"N`,
+    lngDms: `14°29'27.3"E`
   }
 ]
 data = data.map(place => ({
@@ -122,6 +128,14 @@ geocoder.geocode({ 'address': 'Praha 3, Czech Republic' }, (results, status) => 
 })
 
 // Render points.
+let markers = []
+let infoWindows = []
+// Close infowindows on map click.
+const closeInfoWindows = () => {
+  for (let infoWindow of infoWindows) {
+    infoWindow.close()
+  }
+}
 data.forEach(item => {
   const latlng = new google.maps.LatLng(item.lat, item.lng)
   const infoContent = `<div class='info-window'>
@@ -140,9 +154,33 @@ data.forEach(item => {
   })
 
   marker.addListener('click', () => {
+    closeInfoWindows()
     infoWindow.open(map, marker)
   })
+
+  markers.push(marker)
+  infoWindows.push(infoWindow)
 })
+
+const fitBoundsToMarkers = markers => {
+  let bounds = new google.maps.LatLngBounds()
+
+  for (let marker of markers) {
+    bounds.extend(marker.getPosition())
+  }
+
+  map.fitBounds(bounds)
+}
+fitBoundsToMarkers(markers)
+
+// On map focus, turn on mousewheel.
+let firstClickListener = map.addListener('click', () => {
+  map.setOptions({
+    scrollwheel: true
+  })
+  firstClickListener.remove()
+})
+
 
 // Map link.
 const arrow = document.getElementById('maplink')
