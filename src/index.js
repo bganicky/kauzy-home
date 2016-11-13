@@ -104,6 +104,12 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/churchill-square/`,
     latDms: `50°05'02.1"N`,
     lngDms: `14°26'21.9"E`
+  }, {
+    name: `Zástavba parku pod ulicí Kunešova`,
+    description: `Park pod ulicí Kunešova je v platném územním plánu zařazen mezi přírodní lesní pozemky spadající co tzv. celoměstského systému zeleně. Podle návrhu Metropolitního územního plánu by se tyto pozemky měly přičlenit do zastavitelné lokality Balkán s převážně obytným charakterem zástavby. Návrh Metropolitního územního plánu může být ještě před oficiálním projednáním podle zákona upraven. MČ Praha 3 v současnosti prosazuje ponechání pozemků jako přírodních a nezastavitelných. S cílem zabránit zničení zeleně vznikl v roce 2016 Spolek pro ochranu zeleně Na Krejcárku, Pražačce a Na Balkáně.`,
+    url: `http://zizkovnezastavis.cz/kauzy/zastavba-parku-pod-ulici-kunesova/`,
+    latDms: `50°05'40.1"N`,
+    lngDms: `14°28'49.5"E`
   }
 ]
 data = data.map(place => ({
