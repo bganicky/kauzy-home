@@ -98,6 +98,12 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/dum-socialnich-sluzeb-praha-3/`,
     latDms: `50°05'40.8"N`,
     lngDms: `14°29'27.3"E`
+  }, {
+    name: `Churchill Square`,
+    description: `Projekt zahrnuje obytný komplex, hotel a kancelářské centrum. Rezidence Riegrovy sady bude sestávat ze 151 bytů od garsonek o 30m2 po čtyřpokojové rodinné jednotky o velikosti více než 150m2 v celkem pěti objektech. Hotel má mít kapacitu přibližně 215 pokojů. Na kanceláře potom připadá 27 tisíc čtverečních metrů ploch, na maloobchod 3.000 m2. Souhrnem má Churchill Square nabídnout 600 parkovacích míst. Mezi náměstím Winstona Churchilla a hlavním nádražím má vzniknout další malé průchozí náměstí.`,
+    url: `http://zizkovnezastavis.cz/kauzy/churchill-square/`,
+    latDms: `50°05'02.1"N`,
+    lngDms: `14°26'21.9"E`
   }
 ]
 data = data.map(place => ({
