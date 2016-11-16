@@ -110,6 +110,18 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/zastavba-parku-pod-ulici-kunesova/`,
     latDms: `50°05'40.1"N`,
     lngDms: `14°28'49.5"E`
+  }, {
+    name: `Obytný soubor Červený dvůr – Tulipa Třebešín`,
+    description: `Záměr se skládá z celkem 12 objektů pro bydlení (6 bytových domů a 5 viladomů), administrativní budovy při ulici K Červenému Dvoru, budovy malého supermarketu a objektu mateřské školy. V rámci záměru bude vybudována nová T křižovatka a vjezd z ulice U Červeného Dvora (od původní okružní křižovatky se upustilo).`,
+    url: `http://zizkovnezastavis.cz/kauzy/obytny-soubor-cerveny-dvur-tulipa-trebesin/`,
+    latDms: `50°05'04.4"N`,
+    lngDms: `14°29'03.3"E`
+  }, {
+    name: `Vítkovia II – Polyfunkční dům`,
+    description: `Zástavba proluky na Husitské ulici polyfunkčním domem. Navrhovaný objekt má dvě suterénní podlaží a šest nadzemních podlaží. V suterénu je umístěno parkoviště pro 36 aut s vjezdem z ulice Pod Vítkovem. V přízemí se nachází obchodní prostor, v 2. až 5. podlaží kanceláře a 6. podlaží je navrženo pro 6 bytových jednotek.`,
+    url: `http://zizkovnezastavis.cz/kauzy/vitkovia-ii-polyfunkcni-dum/`,
+    latDms: `50°05'14.4"N`,
+    lngDms: `14°27'04.6"E`
   }
 ]
 data = data.map(place => ({
