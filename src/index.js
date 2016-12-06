@@ -122,6 +122,18 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/vitkovia-ii-polyfunkcni-dum/`,
     latDms: `50°05'14.4"N`,
     lngDms: `14°27'04.6"E`
+  }, {
+    name: `Zástavba proluky Pernerova`,
+    description: `Pozemek je v současném územním plánu zařazen mezi nezastavitelné drážní pozemky. Vlastník pan Richard Sobotka požádal v prosinci 2016 o změnu územního plánu na plochy pro bytovou výstavbu (OV). Žádost je doplněna hmotovou studií, podle které má na pozemku vzniknout komplex budov, převážně bytových domů, součástí záměru však má být hotel i administrativa a doplňkové služby. V pokračování Peckovy ulice má být vytvořen menší dvouúrovňový veřejný prostor.`,
+    url: `http://zizkovnezastavis.cz/kauzy/zastavba-proluky-pernerova/`,
+    latDms: `50°05'22.9"N`,
+    lngDms: `14°26'52.9"E`
+  }, {
+    name: `Bytový dům Pod Vítkovem`,
+    description: `Pětipodlažní bytový dům má vzniknout v ulici Pod Vítkovem přímo u pěší a cyklo stezky na bývalé železniční trati. Bývalý vlastník Pražské služby a.s. využívaly pozemek jako odstavné parkoviště, v roce 2014 ho prodaly slovenskému developerovi a architektu Peteru Vavricovi. Ten chystá zástavbu proluky i naproti přes ulici.`,
+    url: `http://zizkovnezastavis.cz/kauzy/bytovy-dum-pod-vitkovem/`,
+    latDms: `50°05'14.8"N`,
+    lngDms: `14°27'03.2"E`
   }
 ]
 data = data.map(place => ({
