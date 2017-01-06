@@ -136,7 +136,7 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     lngDms: `14°27'03.2"E`
   }, {
     name: `Obytný soubor Na Vackove, zóna A2 / etapa 08`,
-    description: `Projekt je poslední osmou etapou zástavby lokality na Vackově. Projekt počítá s výstavbou 4 samostatných objektů na částečně společné podnoži. Objekty mají zahrnovat 235 bytových jednotek, 7 ateliérů, 12 nebytových prostor v parteru a dvoutřídní mateřskou školku v přízemí objektu D. Ve stavbě by mělo najít nový domov 570 obyvatel.`
+    description: `Projekt je poslední osmou etapou zástavby lokality na Vackově. Projekt počítá s výstavbou 4 samostatných objektů na částečně společné podnoži. Objekty mají zahrnovat 235 bytových jednotek, 7 ateliérů, 12 nebytových prostor v parteru a dvoutřídní mateřskou školku v přízemí objektu D. Ve stavbě by mělo najít nový domov 570 obyvatel.`,
     url: `http://zizkovnezastavis.cz/kauzy/obytny-soubor-na-vackove-zona-a2-etapa-08/`,
     latDms:`50°05'16.4"N`,
     lngDms: `14°28'48.5"E`
