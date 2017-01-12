@@ -140,6 +140,12 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/obytny-soubor-na-vackove-zona-a2-etapa-08/`,
     latDms:`50°05'16.4"N`,
     lngDms: `14°28'48.5"E`
+  }, {
+    name: `Obytná čtvrť Jarov`,
+    description: `Nejnovější urbanistická koncepce představená v lednu 2017 počítá s přeměnou ulice Na Jarově v lokální městskou třídu. K této ulici proto navrhuje smíšené využití s obchody, službami a lokálním městským centrem – malým náměstím. Profil ulice je zde rozšířený tak, aby chodníky mohly mít šířku alespoň 6 metrů umožňujících umístění stromořadí. Při ulici na Jarově je navržena kompaktní klasická zástavba s pevnou uliční čarou, východ území charakterizuje rozvolněnější zástavba odpovídající spíše charakteru Jarova. Základní výšková hladina je uvažována na hladině 6-7 podlaží, předpokládají se však i výškové dominanty odpovídající výšce sousedních panelových domů.`,
+    url: `http://zizkovnezastavis.cz/kauzy/obytna-ctvrt-jarov/`,
+    latDms: `50°05'20.6"N`,
+    lngDms: `14°29'27.4"E`
   }
 ]
 
