@@ -177,6 +177,13 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/nove-zizkovske-schody-polyfunkcni-dum/`,
     latDms: `50°05'12.8"N`,
     lngDms: `14°26'40.7"E`
+  },
+  {
+    name: `Polyfunkční dům Pitterova`,
+    description: `Šestipodlažní polyfunkční dům v ulici Pitterova je umístěn na plochu označenou v územním plánu Prahy jako SV (všeobecně smíšené). V navrhovaném domě převládá bytová funkce doplněná o restauraci / kavárnu v přízemí.`,
+    url: `http://zizkovnezastavis.cz/kauzy/polyfunkcni-dum-pitterova/`,
+    latDms: `50°05'02.8"N`,
+    lngDms: `14°27'54.5"E`
   }
 ]
 
