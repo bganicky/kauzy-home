@@ -170,6 +170,13 @@ a.s. hodlá v páté etapě této zástavby umístit k jižní části svahu i p
     url: `http://zizkovnezastavis.cz/kauzy/trojlistek/`,
     latDms: `50°05'38.3"N`,
     lngDms: `14°29'53.6"E`
+  },
+  {
+    name: `Nové žižkovské schody - polyfunkční dům`,
+    description: `Nový polyfunkční dům (obchod, administrativa, bydlení) má vzniknout na pozemcích, které přímo přiléhají ke stávajícímu tělesu lávky přes Husitskou ulici (původně most železniční tratě). Na úrovni cyklostezky má být v domě umístěno občerstvení. Novostavba má mít 6 nadzemních podlaží a jedno podzemní, přičemž 2 podlaží vystupují na úroveň lávky. Podmínkou pro stavbu je změna územního plánu - rozšíření plochy SV. Městská část Praha 3 vydala v roce 2017 souhlas s touto změnou územního plánu.`,
+    url: `http://zizkovnezastavis.cz/kauzy/nove-zizkovske-schody-polyfunkcni-dum/`,
+    latDms: `50°05'12.8"N`,
+    lngDms: `14°26'40.7"E`
   }
 ]
 
