@@ -135,3 +135,10 @@ h2 {
     padding-bottom: 1.75rem;
   }
 }
+
+.logo-sz {
+  margin-top: 1.75em;
+}
+.logo-sz a {
+  display: block;
+}
