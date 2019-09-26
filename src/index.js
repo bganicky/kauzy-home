@@ -1,6 +1,8 @@
+import './index.css'
+
 /* global google */
 require('smoothscroll-polyfill').polyfill()
-import './index.css'
+
 
 /** Parses a Degrees Minutes Seconds string into a Decimal Degrees number.
  * @param {string} dmsStr A string containing a coordinate in either DMS or DD format.
