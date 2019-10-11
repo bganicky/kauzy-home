@@ -3,6 +3,8 @@ import projects from './kauzy.json'
 import './index.css'
 require('smoothscroll-polyfill').polyfill()
 
+Sentry.init({ dsn: 'https://e9c1bbab15184f908f20f037bdcb2c24@sentry.io/1777190' })
+
 /** Parses a Degrees Minutes Seconds string into a Decimal Degrees number.
  * @param {string} dmsStr A string containing a coordinate in either DMS or DD format.
  * @return {Number} If dmsStr is a valid coordinate string, the value in decimal degrees will be returned. Otherwise NaN will be returned.
