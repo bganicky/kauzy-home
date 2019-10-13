@@ -159,5 +159,26 @@
     "url": "http://zizkovnezastavis.cz/kauzy/cetin/",
     "latDms": "50°05'00.3\"N",
     "lngDms": "14°28'09.2\"E"
+  },
+  {
+    "name": "Bytová výstavba v severním cípu nákladového nádraží – Penta",
+    "description": "Jedním ze čtyř velkých hráčů na nákladovém nádraží Žižkov v rámci změny územního plánu Z 2600/00 bude i developer Penta investments. Na svůj pozemek si na jaře 2019 uspořádali mezinárodní architektonickou soutěž, která získala certifikaci České komory architektů a vzešlo z ní jako vítěz studio Benthem Crouwel Architects.",
+    "url": "http://zizkovnezastavis.cz/kauzy/bytova-vystavba-v-severnim-cipu-nakladoveho-nadrazi-penta/",
+    "latDms": "50°05'11.9\"N",
+    "lngDms": "14°28'49.1\"E"
+  },
+  {
+    "name": "Bytová čtvrť Nagano",
+    "description": "V těsné blízkosti území Nákladového nádraží Žižkov zřejmě vznikne nižší bytová výstavba. Nahradí brownfield skrytý za stávajícími administrativními budovami Nagano (U Nákladového nádraží 6,8,10) ohraničený ulicemi Pod Kapličkou, Na Třebešíně a K Červenému dvoru.",
+    "url": "http://zizkovnezastavis.cz/kauzy/bytova-ctvrt-nagano/",
+    "latDms": "50°05'01.3\"N",
+    "lngDms": "14°28'49.5\"E"
+  },
+  {
+    "name": "Obytný soubor na Vackově – etapa 9.",
+    "description": "Poslední etapou zástavby na Vackově je patnáctipatrový věžový objekt. Je to jediná etapa, která nedostala platné územní rozhodnutí během éry starostky Hujové a v současnosti tak čeká na jeho vydání. Politická reprezentace se ale nyní od projektu distancuje (2019). Věž má prostý obdélníkový půdorys a celkem konvenční fasádu, dům není tak blízko hraně parku jako zóna A1 s dvanáctipatrovými domy. Právě v posledních etapách mají být služby v parteru či dokonce v prvních dvou podlažích a to prý dle toho, po čem bude u lidí v okolí poptávka.",
+    "url": "http://zizkovnezastavis.cz/kauzy/obytny-soubor-na-vackove-etapa-9/",
+    "latDms": "50°05'18.4\"N",
+    "lngDms": "14°28'49.5\"E"
   }
 ]
