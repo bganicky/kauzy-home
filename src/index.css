@@ -1,33 +1,3 @@
-/*
-*, *:before, *:after {
-  box-sizing: border-box;
-}
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-body {
-  color: #1a1a1a;
-  font-family: Merriweather, Georgia, serif;
-  font-size: 16px;
-  font-size: 1rem;
-  line-height: 1.75;
-  background-image: url(http://zizkovnezastavis.cz/kauzy/wp-content/themes/kauzy/img/zizkov.jpg);
-  background-size: cover;
-  background-attachment: fixed;
-}
-.container {
-  background-color: rgba(255, 255, 255, 0.5)
-}
-#content {
-  width: 100%;
-  max-width: 60em;
-  min-height: 100vh;
-  margin: 0 auto;
-  padding: 1.75rem 0;
-  position: relative;
-}
 #maplink {
   display: block;
   margin: auto;
@@ -35,51 +5,7 @@ body {
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
-  background: url('http://zizkovnezastavis.cz/kauzy/wp-content/themes/kauzy/img/sipka.svg') no-repeat;
-  background-size: 100px 100px;
-  width: 100px;
-  height: 100px;
-  transform: rotate(90deg);
-}
-#map {
-  height: 100vh;
-}
-h1 {
-  line-height: 1;
-  font-size: 56px;
-  font-size: 3.5rem;
-  color: #78be7f;
-  border-bottom: 8px dotted #9fa1a4;
-  margin-left: -100%;
-  padding-left: 100%;
-  padding-bottom: 16px;
-  padding-bottom: 1rem;
-}
-h1 small {
-  font-size: 28px;
-  font-size: 1.75rem;
-  color: #686868;
-  line-height: -1em;
-}
-h2 {
-  font-size: 28px;
-  font-size: 1.75rem;
-}
-
-@media screen and (min-width: 44.375em) {
-  .container {
-    margin: 21px;
-  }
-}
-*/
-#maplink {
-  display: block;
-  margin: auto;
-  border: 0;
-  font: 0/0 a;
-  text-shadow: none;
-  color: transparent;
-  background: url('http://zizkovnezastavis.cz/kauzy/wp-content/themes/kauzy/img/sipka.svg') no-repeat;
+  background: url('https://zizkovnezastavis.cz/kauzy/wp-content/themes/kauzy/img/sipka.svg') no-repeat;
   background-size: 100px 100px;
   width: 100px;
   height: 100px;
