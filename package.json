@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^3.4.0"
+    "react-scripts": "^3.4.3"
   },
   "dependencies": {
     "dms-conversion": "^2.0.1",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "smoothscroll-polyfill": "^0.3.4"
   },
   "scripts": {
